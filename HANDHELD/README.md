@@ -2,15 +2,15 @@
 ---
 ## LIST OF PERIPHERALS
 ---
-[x] BUTTONS
-[ ] JOYSTICK
-[ ] MPU6050
+- [x] BUTTONS
+- [ ] JOYSTICK
+- [ ] MPU6050
 
 ## LIST OF GAMES
 ---
-[x] SNAKE GAME
-[ ] GAME 2
-[ ] GAME 3
+- [x] SNAKE GAME
+- [ ] GAME 2
+- [ ] GAME 3
 
 ## PINOUT 
 ---
